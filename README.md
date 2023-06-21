@@ -6,7 +6,7 @@ Hello there! I'm Dhanuja Isuru, a passionate software engineer with a focus on w
 
 Feel free to reach out to me for collaboration or any inquiries:
 
-- Email: dhanujaisuru@gmail.com
+- Email: [Email here](dhanujaisuru@gmail.com)
 - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/dhanuja-isuru-727k)
 
 Let's connect and build something amazing together!
