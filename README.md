@@ -1,5 +1,5 @@
 ## 💫 About Me
-👋 Hello! I'm **Dhanuja Isuru**, a **Software Engineering graduate** from **London Metropolitan University**. I am passionate about technology and committed to honing my skills in software development. My goal is to develop innovative and efficient solutions that positively impact users and enhance their overall experience.
+👋 Hello! I'm **Dhanuja Isuru**, a **Software Engineering Graduate** from **London Metropolitan University**. I am passionate about technology and committed to honing my skills in software development. My goal is to develop innovative and efficient solutions that positively impact users and enhance their overall experience.
 
 💡 I thrive in collaborative environments where ideas can be shared and transformed into reality. I am eager to learn from others and contribute to meaningful projects that challenge my creativity and technical abilities.
 
